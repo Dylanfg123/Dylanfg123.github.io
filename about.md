@@ -12,4 +12,4 @@ Eager to learn and provide quality work related to embedded systems, hardware de
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Dylanfg123@gmail.com](mailto:dylanfg123@gmail.com)
