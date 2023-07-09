@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test Post
+title: Test Post 2
 ---
 
-Site options are in _config.yml file in the root of your repository (shown below).
+Here is a picture of a board I made.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Signalyzer.png)
 
-To use this as a post template go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+For design files head over to the [Signalyzer Repo](https://github.com/Dylanfg123/Signalyzer) on GitHub.
