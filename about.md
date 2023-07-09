@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Electrical Engineer interested in building cool things
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Eager to learn and provide quality work related to embedded systems, hardware design, signal processing, and RF systems. Half-way through a Master’s Degree in Electrical and Computer Engineering.
 
 ### Contact me
 
